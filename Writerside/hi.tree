@@ -13,6 +13,15 @@
         <toc-element topic="collaboration.md"/>
     </toc-element>
     <toc-element topic="CSharp-basics.md">
-        <toc-element topic="intro.md"/>
+        <toc-element topic="intro.md">
+            <toc-element topic="variables.md"/>
+            <toc-element topic="Data-Types.md"/>
+            <toc-element topic="Operators.md"/>
+            <toc-element topic="Control-structures.md"/>
+            <toc-element topic="Intro-to-Web-dev-NET-Core.md"/>
+            <toc-element topic="Input-Output-Console.md"/>
+        </toc-element>
+        <toc-element topic="OOP-concepts.md"/>
+        <toc-element topic="Collections-LINQ.md"/>
     </toc-element>
 </instance-profile>

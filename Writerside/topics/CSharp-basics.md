@@ -1,9 +1,9 @@
 # CSharp-basics
 
-# 💻 C# and .NET Mentorship Track – CSK Web Development Program
+# 💻 introduction to C#.Net
 
-Welcome to the **C# and .NET Mentorship Track** under the Computer Society of Kirinyaga (CSK) Web Development Program.  
-This documentation serves as your **official learning guide** — combining theoretical explanations, practical exercises, and curated resources to help you master modern software engineering using the **Microsoft .NET ecosystem**.
+Introduce
+
 
 ---
 
